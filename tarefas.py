@@ -1,3 +1,4 @@
+# Versao: 1.1 - Adicionado campo prioridade na Tarefa
 # tarefas.py - Modulo de classes de Tarefas
 # GlTechSolutions2026
 
