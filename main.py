@@ -1,3 +1,4 @@
+# Versao: 1.1 - Adicionado controle de versao
 # main.py - Sistema de Gestao de Tarefas
 # GlTechSolutions2026
 
